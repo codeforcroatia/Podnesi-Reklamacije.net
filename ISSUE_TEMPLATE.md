@@ -8,9 +8,7 @@ To make it possible for us to help you please fill out below information careful
 ### Steps to reproduce
 
 1.
-
 2.
-
 3.
 
 ### Expected behaviour
