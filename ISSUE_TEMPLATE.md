@@ -1,5 +1,5 @@
 <!--
-Thanks for reporting issues back to Reklamacije.net! This is the issue tracker of Podnesi.Reklamacije.net, if you have any support question please check out http://podnesi.reklamacije.net/help
+Thanks for reporting issues back to Reklamacije.net! This is the issue tracker of Reklamacije.net, if you have any support question please check out http://reklamacije.net/help
 
 This is the bug tracker for the Alaveteli component.
 
