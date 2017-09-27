@@ -1,10 +1,3 @@
-<!--
-Thanks for reporting issues back to Reklamacije.net! This is the issue tracker of Reklamacije.net, if you have any support question please check out http://reklamacije.net/help
-
-This is the bug tracker for the Alaveteli component.
-
-To make it possible for us to help you please fill out below information carefully.
---> 
 ### Steps to reproduce
 
 1.
